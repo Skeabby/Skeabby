@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br><br>
+🔭 I’m currently working on skeyrak <br>👯 I’m looking to collaborate <br>🤝 I’m looking for help <br>🌱 I’m currently learning<br><br>
 
 
 # 💻 Tech Stack:
